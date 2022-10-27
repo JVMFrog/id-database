@@ -1,0 +1,8 @@
+[
+  {
+    "game":"minecraft",
+    "types":[
+        "blocks", "items"
+    ]
+  }
+]
