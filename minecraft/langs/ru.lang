@@ -1,1 +1,13 @@
+air=Воздух
 stone=Камень
+grass=Дёрн
+dirt=Земля
+cobblestone=Булыжник
+planks=Доски
+sapling=Саженец
+bedrock=Бедрок
+flowing_water=Вода
+water=Вода (неподвижная)
+flowing_lava=Лава
+lava=Лава (неподвижная)
+sand=Песок
