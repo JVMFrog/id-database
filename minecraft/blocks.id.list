@@ -1,1 +1,13 @@
+minecraft:air #0
 minecraft:stone #1
+minecraft:grass #2
+minecraft:dirt #3
+minecraft:cobblestone #4
+minecraft:planks #5
+minecraft:sapling #6
+minecraft:bedrock #7
+minecraft:flowing_water #8
+minecraft:water #9
+minecraft:flowing_lava #10
+minecraft:lava #11
+minecraft:sand #12
